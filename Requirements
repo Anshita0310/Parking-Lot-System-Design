@@ -1,0 +1,13 @@
+Functional Requiremens :- 
+1. SignUp and Login Window - where users can signup for new account or login to existing account and verify their identity securely.
+2. Parking space - users must be able to see all the available parking spaces and all the occupied parking spots in real-time.
+3. Reservation - user must be able to book a spot in advance and lock the spot for next step.
+4. Payment - secure system for payment of parking fees.
+5. Navigation - users must be able to see a guided route to their booked parking spot inside the parking lot.
+
+Non - Functional Requirements :-
+1. Latency – System should respond quickly, even during peak hours.
+2. Data Integrity – Ensure high availability, minimal downtime, and reliable data.
+3. Traffic Handling – Support more users and transactions without slowing down.
+4. Security – Protect user data, payments, and system from unauthorized access.
+5. User Interface – Simple, clear, and seamless experience for users.
